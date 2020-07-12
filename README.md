@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi, I'm Ashish Jha 👋🏾 👩🏾‍💻
+
+<img src="https://raw.githubusercontent.com/lapalb/lapalb/master/header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lapalb)
+
+## Find me around the web 🌎:
+
+- Sharing updates on <a href="https://www.linkedin.com/in/ashish-jha-6bb7b3101">LinkedIn</a> 💼
 
 <!--
 **lapalb/lapalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
