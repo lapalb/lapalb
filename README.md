@@ -8,6 +8,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 ## Find me around the web 🌎:
 
 - Sharing updates on <a href="https://www.linkedin.com/in/ashish-jha-6bb7b3101">LinkedIn</a> 💼
+- Check my blogs on my <a href="https://lapalb.github.io/as_blog/">Website </a>💬
 
 <!--
 **lapalb/lapalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
