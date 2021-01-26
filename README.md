@@ -1,10 +1,14 @@
 
 
 <img src="https://raw.githubusercontent.com/lapalb/lapalb/master/header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
-![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=lapalb)
-
+<div style="display:flex; justify-content: space-between">
+<img src="https://github-readme-stats.vercel.app/api?username=lapalb">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lapalb&show_icons=true&locale=en&layout=compact" alt="Ashish Jha " height="194px">
+</div>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=lapalb&color=blue)
 ## Find me around the web 🌎:
@@ -26,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
